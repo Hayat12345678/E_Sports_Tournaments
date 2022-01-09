@@ -1,0 +1,42 @@
+.esports-info{
+  display: inline-block;
+  width: 30vw;height: 300px;border: 2px solid black;
+  overflow: scroll; margin: auto;
+  border-radius: 1.5rem;
+}
+
+body{
+  background-color: rgb(226, 235, 235);
+}
+.dota-tournament-img {
+height: 200px;
+width: 200px;
+float: left;}
+
+img{width: 25vw;
+    border-radius: 1.5rem;
+  }
+
+h1 {
+  font-size: 3rem;
+  font-family: "Luxurious Roman", cursive;
+  color: #030397;
+  text-shadow: 2px 2px 3px #faee4cfd, 
+  -2px -2px 3px #f3501e,
+   -2px 2px 2px #4c4cf5,
+    -2px -2px 3px #2fceff;
+}
+h2 {font-size: 2rem;
+  font-family: "Luxurious Roman", cursive;
+  color: #030397;
+  text-shadow: 2px 2px 3px #faee4cfd;
+}
+
+p {
+  font-family: "Luxurious Roman", cursive;
+  color:#030397;
+  font-size: 22px;
+  width: 70%;
+  margin-left: 15%;
+}
+
